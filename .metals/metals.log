@@ -1,0 +1,284 @@
+INFO  time: initialize in 0.38s
+INFO  running 'sbt metalsEnable bloopInstall'
+ERROR Getting org.scala-sbt sbt 1.2.0  (this may take some time)...
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.2.0/sbt-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#sbt;1.2.0!sbt.jar (47ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar ...
+INFO  [SUCCESSFUL ] org.scala-lang#scala-library;2.12.6!scala-library.jar (716ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.2.0/main_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#main_2.12;1.2.0!main_2.12.jar (349ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.2.0/logic_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#logic_2.12;1.2.0!logic_2.12.jar (33ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.2.0/actions_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#actions_2.12;1.2.0!actions_2.12.jar (55ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.2.0/main-settings_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#main-settings_2.12;1.2.0!main-settings_2.12.jar (98ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.2.0/run_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#run_2.12;1.2.0!run_2.12.jar (113ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.2.0/command_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#command_2.12;1.2.0!command_2.12.jar (77ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.2.0/collections_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#collections_2.12;1.2.0!collections_2.12.jar (94ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-sbt-redux_2.12/1.2.0/scripted-sbt-redux_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#scripted-sbt-redux_2.12;1.2.0!scripted-sbt-redux_2.12.jar (38ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.2.0/scripted-plugin_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#scripted-plugin_2.12;1.2.0!scripted-plugin_2.12.jar (23ms)
+INFO  downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar ...
+INFO  [SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.8.1!log4j-api.jar (69ms)
+INFO  downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar ...
+INFO  [SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.8.1!log4j-core.jar (261ms)
+INFO  downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.8.1/log4j-slf4j-impl-2.8.1.jar ...
+INFO  [SUCCESSFUL ] org.apache.logging.log4j#log4j-slf4j-impl;2.8.1!log4j-slf4j-impl.jar (27ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#io_2.12;1.2.0!io_2.12.jar (70ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.0/util-logging_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-logging_2.12;1.2.0!util-logging_2.12.jar (56ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.2.0/librarymanagement-core_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#librarymanagement-core_2.12;1.2.0!librarymanagement-core_2.12.jar (147ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.2.0/librarymanagement-ivy_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#librarymanagement-ivy_2.12;1.2.0!librarymanagement-ivy_2.12.jar (118ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.2.0/compiler-interface-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#compiler-interface;1.2.0!compiler-interface.jar (48ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile_2.12/1.2.0/zinc-compile_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-compile_2.12;1.2.0!zinc-compile_2.12.jar (36ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.0/util-relation_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-relation_2.12;1.2.0!util-relation_2.12.jar (27ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.2.0/util-position_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-position_2.12;1.2.0!util-position_2.12.jar (33ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6.jar ...
+INFO  [SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.6!scala-reflect.jar (556ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.2.0/completion_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#completion_2.12;1.2.0!completion_2.12.jar (69ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.2.0/task-system_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#task-system_2.12;1.2.0!task-system_2.12.jar (39ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.2.0/tasks_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#tasks_2.12;1.2.0!tasks_2.12.jar (37ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.2.0/testing_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#testing_2.12;1.2.0!testing_2.12.jar (47ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-tracking_2.12/1.2.0/util-tracking_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-tracking_2.12;1.2.0!util-tracking_2.12.jar (34ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.2.0/zinc-classpath_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-classpath_2.12;1.2.0!zinc-classpath_2.12.jar (111ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.2.0/zinc-apiinfo_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-apiinfo_2.12;1.2.0!zinc-apiinfo_2.12.jar (51ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-ivy-integration_2.12/1.2.0/zinc-ivy-integration_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-ivy-integration_2.12;1.2.0!zinc-ivy-integration_2.12.jar (31ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.2.0/zinc_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc_2.12;1.2.0!zinc_2.12.jar (37ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.0/util-control_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-control_2.12;1.2.0!util-control_2.12.jar (29ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.0/util-interface-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-interface;1.2.0!util-interface.jar (30ms)
+INFO  downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.jar ...
+INFO  [SUCCESSFUL ] com.lmax#disruptor;3.3.6!disruptor.jar (42ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6.jar ...
+INFO  [SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.6!scala-compiler.jar (1331ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.2.0/util-cache_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-cache_2.12;1.2.0!util-cache_2.12.jar (53ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.2.0/test-agent-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#test-agent;1.2.0!test-agent.jar (29ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.2.0/zinc-classfile_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-classfile_2.12;1.2.0!zinc-classfile_2.12.jar (33ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.2.0/zinc-compile-core_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-compile-core_2.12;1.2.0!zinc-compile-core_2.12.jar (134ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.2.0/zinc-core_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-core_2.12;1.2.0!zinc-core_2.12.jar (151ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.2.0/zinc-persist_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#zinc-persist_2.12;1.2.0!zinc-persist_2.12.jar (214ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#sbinary_2.12;0.4.4!sbinary_2.12.jar (41ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.2.0/core-macros_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#core-macros_2.12;1.2.0!core-macros_2.12.jar (40ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.2.0/protocol_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#protocol_2.12;1.2.0!protocol_2.12.jar (78ms)
+INFO  downloading https://repo1.maven.org/maven2/org/scala-sbt/util-scripted_2.12/1.2.0/util-scripted_2.12-1.2.0.jar ...
+INFO  [SUCCESSFUL ] org.scala-sbt#util-scripted_2.12;1.2.0!util-scripted_2.12.jar (35ms)
+INFO  :: retrieving :: org.scala-sbt#boot-app
+INFO  confs: [default]
+INFO  79 artifacts copied, 0 already retrieved (28033kB/678ms)
+ERROR Getting Scala 2.12.6 (for sbt)...
+INFO  :: retrieving :: org.scala-sbt#boot-scala
+INFO  confs: [default]
+INFO  5 artifacts copied, 0 already retrieved (19632kB/72ms)
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /Users/brownd89/.sbt/1.0/plugins
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/.sbt/1.0/plugins/"), "global-plugins")...
+INFO  [info] downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.2.5/bloop-config_2.12-1.2.5.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.2.5/sbt-bloop-1.2.5.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.jar ...
+[info] downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/scalameta/sbt-metals_2.12_1.0/0.5.2/sbt-metals-0.5.2.jar ...
+INFO  [info] 	[SUCCESSFUL ] org.spire-math#jawn-parser_2.12;0.11.1!jawn-parser_2.12.jar (85ms)
+INFO  [info] 	[SUCCESSFUL ] org.scalameta#sbt-metals;0.5.2!sbt-metals.jar (111ms)
+INFO  [info] 	[SUCCESSFUL ] io.circe#circe-jawn_2.12;0.9.3!circe-jawn_2.12.jar (145ms)
+INFO  [info] 	[SUCCESSFUL ] io.circe#circe-parser_2.12;0.9.3!circe-parser_2.12.jar (157ms)
+INFO  [info] 	[SUCCESSFUL ] org.typelevel#cats-macros_2.12;1.0.1!cats-macros_2.12.jar (124ms)
+INFO  [info] 	[SUCCESSFUL ] ch.epfl.scala#sbt-bloop;1.2.5!sbt-bloop.jar (181ms)
+INFO  [info] 	[SUCCESSFUL ] io.circe#circe-numbers_2.12;0.9.3!circe-numbers_2.12.jar (162ms)
+INFO  [info] 	[SUCCESSFUL ] org.typelevel#machinist_2.12;0.6.2!machinist_2.12.jar (148ms)
+INFO  [info] 	[SUCCESSFUL ] io.circe#circe-derivation_2.12;0.9.0-M3!circe-derivation_2.12.jar (202ms)
+INFO  [info] 	[SUCCESSFUL ] ch.epfl.scala#bloop-config_2.12;1.2.5!bloop-config_2.12.jar (423ms)
+INFO  [info] 	[SUCCESSFUL ] io.circe#circe-core_2.12;0.9.3!circe-core_2.12.jar (517ms)
+INFO  [info] downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1-tests.jar ...
+INFO  [info] 	[SUCCESSFUL ] org.typelevel#cats-kernel_2.12;1.0.1!cats-kernel_2.12.jar (919ms)
+INFO  [info] 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.8.1!log4j-core.jar(test-jar) (422ms)
+INFO  [info] 	[SUCCESSFUL ] org.typelevel#cats-core_2.12;1.0.1!cats-core_2.12.jar (1170ms)
+INFO  [info] Done updating.
+INFO  [info] Loading settings for project akka-http-quickstart-scala-build from plugins.sbt ...
+INFO  [info] Loading project definition from /Users/brownd89/Downloads/akka-http-quickstart-scala/project
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/Downloads/akka-http-quickstart-scala/project/"), "akka-http-quickstart-scala-build")...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/scalariform/scalariform_2.12/0.2.5/scalariform_2.12-0.2.5.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.6/scala-parser-combinators_2.12-1.0.6.jar ...
+INFO  [info] downloading https://repo1.maven.org/maven2/org/scalariform/sbt-scalariform_2.12_1.0/1.8.2/sbt-scalariform-1.8.2.jar ...
+INFO  [info] 	[SUCCESSFUL ] org.scalariform#sbt-scalariform;1.8.2!sbt-scalariform.jar (102ms)
+INFO  [info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.12/sbt_1.0/0.9.1/jars/sbt-revolver.jar ...
+INFO  [info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.6!scala-parser-combinators_2.12.jar(bundle) (192ms)
+INFO  [info] 	[SUCCESSFUL ] org.scalariform#scalariform_2.12;0.2.5!scalariform_2.12.jar (252ms)
+INFO  [info] 	[SUCCESSFUL ] io.spray#sbt-revolver;0.9.1!sbt-revolver.jar (580ms)
+INFO  [info] Done updating.
+INFO  [success] Generated .bloop/akka-http-quickstart-scala-build.json
+INFO  [success] Total time: 5 s, completed 07-Jun-2019 11:58:51
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/Downloads/akka-http-quickstart-scala/project/"), "akka-http-quickstart-scala-build")...
+INFO  [info] Done updating.
+INFO  [info] Loading settings for project root from build.sbt ...
+INFO  [info] Set current project to akka-http-quickstart-scala (in build file:/Users/brownd89/Downloads/akka-http-quickstart-scala/)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] 	at sbt.Compat$.appendImpl(MetalsPlugin.scala:111)
+[error] 	at sbt.Compat$.appendWithSession(MetalsPlugin.scala:94)
+[error] 	at scala.meta.metals.MetalsPlugin$.$anonfun$metalsEnable$1(MetalsPlugin.scala:72)
+[error] 	at sbt.Command$.$anonfun$command$2(Command.scala:91)
+[error] 	at sbt.Command$.process(Command.scala:181)
+[error] 	at sbt.MainLoop$.processCommand(MainLoop.scala:151)
+[error] 	at sbt.MainLoop$.$anonfun$next$2(MainLoop.scala:139)
+[error] 	at sbt.State$$anon$1.runCmd$1(State.scala:246)
+[error] 	at sbt.State$$anon$1.process(State.scala:250)
+[error] 	at sbt.MainLoop$.$anonfun$next$1(MainLoop.scala:139)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:16)
+[error] 	at sbt.MainLoop$.next(MainLoop.scala:139)
+[error] 	at sbt.MainLoop$.run(MainLoop.scala:132)
+[error] 	at sbt.MainLoop$.$anonfun$runWithNewLog$1(MainLoop.scala:110)
+[error] 	at sbt.io.Using.apply(Using.scala:22)
+[error] 	at sbt.MainLoop$.runWithNewLog(MainLoop.scala:104)
+[error] 	at sbt.MainLoop$.runAndClearLast(MainLoop.scala:59)
+[error] 	at sbt.MainLoop$.runLoggedLoop(MainLoop.scala:44)
+[error] 	at sbt.MainLoop$.runLogged(MainLoop.scala:35)
+[error] 	at sbt.StandardMain$.runManaged(Main.scala:138)
+[error] 	at sbt.xMain.run(Main.scala:89)
+[error] 	at xsbt.boot.Launch$$anonfun$run$1.apply(Launch.scala:109)
+[error] 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:128)
+[error] 	at xsbt.boot.Launch$.run(Launch.scala:109)
+[error] 	at xsbt.boot.Launch$$anonfun$apply$1.apply(Launch.scala:35)
+[error] 	at xsbt.boot.Launch$.launch(Launch.scala:117)
+[error] 	at xsbt.boot.Launch$.apply(Launch.scala:18)
+[error] 	at xsbt.boot.Boot$.runImpl(Boot.scala:56)
+[error] 	at xsbt.boot.Boot$.main(Boot.scala:18)
+[error] 	at xsbt.boot.Boot.main(Boot.scala)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] Use 'last' for the full log.
+INFO  sbt exit: 1
+INFO  time: ran 'sbt bloopInstall' in 47s
+ERROR sbt command failed: /Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/cy/blx6q4jd3n3_sgryb5sfymsnlsfgmt/T/metals6336167642006376836/sbt-launch.jar metalsEnable bloopInstall
+INFO  running 'sbt metalsEnable bloopInstall'
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /Users/brownd89/.sbt/1.0/plugins
+INFO  [info] Loading settings for project akka-http-quickstart-scala-build from plugins.sbt ...
+INFO  [info] Loading project definition from /Users/brownd89/Downloads/akka-http-quickstart-scala/project
+INFO  [success] Generated .bloop/akka-http-quickstart-scala-build.json
+INFO  [success] Total time: 1 s, completed 07-Jun-2019 12:01:36
+INFO  [info] Loading settings for project root from build.sbt ...
+INFO  [info] Set current project to akka-http-quickstart-scala (in build file:/Users/brownd89/Downloads/akka-http-quickstart-scala/)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] 	at sbt.Compat$.appendImpl(MetalsPlugin.scala:111)
+[error] 	at sbt.Compat$.appendWithSession(MetalsPlugin.scala:94)
+[error] 	at scala.meta.metals.MetalsPlugin$.$anonfun$metalsEnable$1(MetalsPlugin.scala:72)
+[error] 	at sbt.Command$.$anonfun$command$2(Command.scala:91)
+[error] 	at sbt.Command$.process(Command.scala:181)
+[error] 	at sbt.MainLoop$.processCommand(MainLoop.scala:151)
+[error] 	at sbt.MainLoop$.$anonfun$next$2(MainLoop.scala:139)
+[error] 	at sbt.State$$anon$1.runCmd$1(State.scala:246)
+[error] 	at sbt.State$$anon$1.process(State.scala:250)
+[error] 	at sbt.MainLoop$.$anonfun$next$1(MainLoop.scala:139)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:16)
+[error] 	at sbt.MainLoop$.next(MainLoop.scala:139)
+INFO  [error] 	at sbt.MainLoop$.run(MainLoop.scala:132)
+[error] 	at sbt.MainLoop$.$anonfun$runWithNewLog$1(MainLoop.scala:110)
+[error] 	at sbt.io.Using.apply(Using.scala:22)
+[error] 	at sbt.MainLoop$.runWithNewLog(MainLoop.scala:104)
+[error] 	at sbt.MainLoop$.runAndClearLast(MainLoop.scala:59)
+[error] 	at sbt.MainLoop$.runLoggedLoop(MainLoop.scala:44)
+[error] 	at sbt.MainLoop$.runLogged(MainLoop.scala:35)
+[error] 	at sbt.StandardMain$.runManaged(Main.scala:138)
+[error] 	at sbt.xMain.run(Main.scala:89)
+[error] 	at xsbt.boot.Launch$$anonfun$run$1.apply(Launch.scala:109)
+[error] 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:128)
+[error] 	at xsbt.boot.Launch$.run(Launch.scala:109)
+INFO  [error] 	at xsbt.boot.Launch$$anonfun$apply$1.apply(Launch.scala:35)
+[error] 	at xsbt.boot.Launch$.launch(Launch.scala:117)
+[error] 	at xsbt.boot.Launch$.apply(Launch.scala:18)
+[error] 	at xsbt.boot.Boot$.runImpl(Boot.scala:56)
+[error] 	at xsbt.boot.Boot$.main(Boot.scala:18)
+[error] 	at xsbt.boot.Boot.main(Boot.scala)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] Use 'last' for the full log.
+INFO  sbt exit: 1
+INFO  time: ran 'sbt bloopInstall' in 11s
+ERROR sbt command failed: /Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/cy/blx6q4jd3n3_sgryb5sfymsnlsfgmt/T/metals6336167642006376836/sbt-launch.jar metalsEnable bloopInstall
+INFO  running 'sbt metalsEnable bloopInstall'
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /Users/brownd89/.sbt/1.0/plugins
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/.sbt/1.0/plugins/"), "global-plugins")...
+INFO  [info] Done updating.
+INFO  [info] Loading settings for project akka-http-quickstart-scala-build from plugins.sbt ...
+INFO  [info] Loading project definition from /Users/brownd89/Downloads/akka-http-quickstart-scala/project
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/Downloads/akka-http-quickstart-scala/project/"), "akka-http-quickstart-scala-build")...
+INFO  [info] Done updating.
+INFO  [success] Generated .bloop/akka-http-quickstart-scala-build.json
+INFO  [success] Total time: 2 s, completed 07-Jun-2019 12:02:18
+INFO  [info] Updating ProjectRef(uri("file:/Users/brownd89/Downloads/akka-http-quickstart-scala/project/"), "akka-http-quickstart-scala-build")...
+INFO  [info] Done updating.
+INFO  [info] Loading settings for project root from build.sbt ...
+INFO  [info] Set current project to akka-http-quickstart-scala (in build file:/Users/brownd89/Downloads/akka-http-quickstart-scala/)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] 	at sbt.Compat$.appendImpl(MetalsPlugin.scala:111)
+[error] 	at sbt.Compat$.appendWithSession(MetalsPlugin.scala:94)
+[error] 	at scala.meta.metals.MetalsPlugin$.$anonfun$metalsEnable$1(MetalsPlugin.scala:72)
+[error] 	at sbt.Command$.$anonfun$command$2(Command.scala:91)
+[error] 	at sbt.Command$.process(Command.scala:181)
+[error] 	at sbt.MainLoop$.processCommand(MainLoop.scala:151)
+[error] 	at sbt.MainLoop$.$anonfun$next$2(MainLoop.scala:139)
+[error] 	at sbt.State$$anon$1.runCmd$1(State.scala:246)
+[error] 	at sbt.State$$anon$1.process(State.scala:250)
+[error] 	at sbt.MainLoop$.$anonfun$next$1(MainLoop.scala:139)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:16)
+[error] 	at sbt.MainLoop$.next(MainLoop.scala:139)
+[error] 	at sbt.MainLoop$.run(MainLoop.scala:132)
+[error] 	at sbt.MainLoop$.$anonfun$runWithNewLog$1(MainLoop.scala:110)
+[error] 	at sbt.io.Using.apply(Using.scala:22)
+[error] 	at sbt.MainLoop$.runWithNewLog(MainLoop.scala:104)
+[error] 	at sbt.MainLoop$.runAndClearLast(MainLoop.scala:59)
+[error] 	at sbt.MainLoop$.runLoggedLoop(MainLoop.scala:44)
+[error] 	at sbt.MainLoop$.runLogged(MainLoop.scala:35)
+[error] 	at sbt.StandardMain$.runManaged(Main.scala:138)
+[error] 	at sbt.xMain.run(Main.scala:89)
+[error] 	at xsbt.boot.Launch$$anonfun$run$1.apply(Launch.scala:109)
+[error] 	at xsbt.boot.Launch$.withContextLoader(Launch.scala:128)
+[error] 	at xsbt.boot.Launch$.run(Launch.scala:109)
+[error] 	at xsbt.boot.Launch$$anonfun$apply$1.apply(Launch.scala:35)
+[error] 	at xsbt.boot.Launch$.launch(Launch.scala:117)
+[error] 	at xsbt.boot.Launch$.apply(Launch.scala:18)
+[error] 	at xsbt.boot.Boot$.runImpl(Boot.scala:56)
+INFO  [error] 	at xsbt.boot.Boot$.main(Boot.scala:18)
+[error] 	at xsbt.boot.Boot.main(Boot.scala)
+INFO  [error] java.lang.NoSuchMethodError: sbt.internal.Load$.reapply(Lscala/collection/Seq;Lsbt/internal/BuildStructure;Lsbt/util/Show;)Lsbt/internal/BuildStructure;
+INFO  [error] Use 'last' for the full log.
+INFO  sbt exit: 1
+INFO  time: ran 'sbt bloopInstall' in 16s
+ERROR sbt command failed: /Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/cy/blx6q4jd3n3_sgryb5sfymsnlsfgmt/T/metals6336167642006376836/sbt-launch.jar metalsEnable bloopInstall
