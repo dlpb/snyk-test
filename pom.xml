@@ -28,7 +28,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <dependency>  
       <groupId>org.json4s</groupId>  
       <artifactId>json4s-jackson_2.12</artifactId>  
-      <version>3.5.3</version>  
+      <version>3.6.5</version>  
     </dependency>  
     <dependency>  
       <groupId>org.json4s</groupId>  
