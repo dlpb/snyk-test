@@ -22,17 +22,17 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     </dependency>  
     <dependency>  
       <groupId>org.json4s</groupId>  
-      <artifactId>json4s-core</artifactId>  
+      <artifactId>jjackson_2.12</artifactId>  
       <version>3.5.3</version>  
     </dependency>  
     <dependency>  
       <groupId>org.json4s</groupId>  
-      <artifactId>json4s-jackson</artifactId>  
+      <artifactId>json4s-jackson_2.12</artifactId>  
       <version>3.5.3</version>  
     </dependency>  
     <dependency>  
       <groupId>org.json4s</groupId>  
-      <artifactId>json4s-ext</artifactId>  
+      <artifactId>json4s-ext_2.12</artifactId>  
       <version>3.5.3</version>  
     </dependency>  
 
