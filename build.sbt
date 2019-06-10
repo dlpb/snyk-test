@@ -6,10 +6,10 @@ lazy val json4sVersion = "3.5.3"
 lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
-      organization    := "com.example",
+      organization    := "test.snyk.vunerabilities",
       scalaVersion    := "2.12.7"
     )),
-    name := "akka-http-quickstart-scala",
+    name := "snyk-test",
     libraryDependencies ++= Seq(
       "com.typesafe.akka" %% "akka-http"            % akkaHttpVersion,
       "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion,
