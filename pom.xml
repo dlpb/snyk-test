@@ -20,6 +20,21 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       <version>4.8.2</version>  
       <scope>test</scope>  
     </dependency>  
+    <dependency>  
+      <groupId>org.json4s</groupId>  
+      <artifactId>jjackson_2.12</artifactId>  
+      <version>3.5.3</version>  
+    </dependency>  
+    <dependency>  
+      <groupId>org.json4s</groupId>  
+      <artifactId>json4s-jackson_2.12</artifactId>  
+      <version>3.5.3</version>  
+    </dependency>  
+    <dependency>  
+      <groupId>org.json4s</groupId>  
+      <artifactId>json4s-ext_2.12</artifactId>  
+      <version>3.5.3</version>  
+    </dependency> 
   </dependencies>  
  
 </project>
